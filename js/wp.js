@@ -17,4 +17,4 @@ else
 }
 */
 
-document.write('<iframe src="http://kontactr.com/xuser/'+id+'/'+clr+'" width="368px" height="600px" frameborder="0"></iframe>');
+document.write('<iframe src="https://kontactr.com/xuser/'+id+'/'+clr+'" width="368px" height="600px" frameborder="0"></iframe>');
